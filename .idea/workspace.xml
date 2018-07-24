@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3efc27bf-210f-4fdb-97fc-a806d3b6a662" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/app/controllers/stocks_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/users_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/users/my_portfolio.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/finance-tracker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/finance-tracker.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/devise/shared/_links.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/devise/shared/_links.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -35,8 +26,8 @@
       <file leaf-file-name="Gemfile" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+            <state relative-caret-position="93">
+              <caret line="45" column="37" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -283,12 +274,12 @@
       <updated>1532411803902</updated>
       <workItem from="1532411805222" duration="14178000" />
       <workItem from="1532429229487" duration="908000" />
-      <workItem from="1532430153643" duration="115000" />
+      <workItem from="1532430153643" duration="660000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15201000" />
+    <option name="totallyTimeSpent" value="15746000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-16" width="1936" height="1056" extended-state="6" />
@@ -527,13 +518,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/users/my_portfolio.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/models/stock.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -541,10 +525,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/users/my_portfolio.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        <state relative-caret-position="93">
+          <caret line="45" column="37" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
         </state>
       </provider>
     </entry>
